@@ -1,4 +1,5 @@
 @echo off
+chcp 866
 set "<=["
 set ">=[0m"
 set "F_Red=41m"
